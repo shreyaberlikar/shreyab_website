@@ -1,2 +1,2 @@
 # shreyab_website
- I developed Random Quote Generation using HTML , CSS and Javascript .To see my website visit https://shreyaberlikar/
+ I developed Random Quote Generation using HTML , CSS and Javascript .
